@@ -1,0 +1,194 @@
+.box1{
+	background-color: #e9d0cf;
+	padding: 1px;
+	border: 1px solid;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+
+}
+
+.image img{
+	border-style: double;
+		border-color: black;
+		margin: 0 auto;
+		padding: 7px;
+		border-width: 6px;
+		border-color: black;
+
+}
+
+.main{
+	background-color: #ab9f90;
+	padding: 1px;
+	border: 1px solid;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+}
+
+.box2{
+	background-color: #ebe0d6;
+	padding: 15px;
+	border: 1px solid;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+
+}
+
+	
+	body{
+	background-image: url(https://img.freepik.com/free-photo/close-up-black-marble-textured-background_53876-148094.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	margin-right:50px;
+		margin-left:50px;
+	font-family: Gill Sans;
+	text-align: center;
+
+
+}
+
+.box2 img{
+	border-style: solid;
+		border-color: black;
+		margin: 0 auto;
+		padding: 0px;
+		border-width: 1px;
+
+
+
+}
+.box3{
+	background-color: #ab9f90;
+	padding: 1px;
+	border: 1px solid;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+
+
+
+}
+
+.box4{
+	background-color: #ebe0d6;
+	padding: 15px;
+	border: 1px solid;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+}
+
+
+.box4 img{
+	border-style: solid;
+		border-color: black;
+		margin: 0 auto;
+		padding: 0px;
+		border-width: 1px;
+}
+
+.box5{
+	background-color: #ab9f90;
+	padding: 1px;
+	border: 1px solid;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+
+
+
+}
+
+.box6{
+	background-color: #ebe0d6;
+	padding: 15px;
+	border: 1px solid;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+
+}
+
+.box6 img{
+	border-style: solid;
+		border-color: black;
+		margin: 0 auto;
+		padding: 0px;
+		border-width: 1px;
+
+
+
+}
+
+.box7{
+	background-color: #ab9f90;
+	padding: 1px;
+	border: 1px solid;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+
+}
+
+.box8 {
+	background-color: #ebe0d6;
+	padding: 15px;
+	border: 1px solid;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+}
+
+.box8 img{
+	border-style: solid;
+		border-color: black;
+		margin: 0 auto;
+		padding: 0px;
+		border-width: 1px;
+
+	}
+
+.box9{
+	background-color: #ab9f90;
+	padding: 1px;
+	border: 1px solid;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center; 
+    padding: 1px; 
+    background-color: #ebe0d6;
+	border: 1px solid;
+	box-shadow: 2px 2px 15px rgb(0,0,0,0.8);
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+
+.social-media li {
+    margin: 0 10px; 
+}
+
+
+
+
+
+
+
